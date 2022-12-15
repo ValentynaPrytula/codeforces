@@ -2,8 +2,8 @@ package TaskA.Yes;
 
 import java.util.Scanner;
 
-//public class Lost_in_Localization {
-public class solution {
+public class Lost_in_Localization {
+//public class solution {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
